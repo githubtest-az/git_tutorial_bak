@@ -14,3 +14,5 @@ Gitの練習をしていきます
 Git rm
 
 Git status
+
+Git 
